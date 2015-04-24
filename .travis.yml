@@ -1,4 +1,4 @@
 language: objective-c
 xcode_project: testing swiping.xcodeproj # path to your xcodeproj folder
-xcode_scheme: stesting swipingTests
+xcode_scheme: testing swipingTests
 xcode_sdk: iphonesimulator7.0
