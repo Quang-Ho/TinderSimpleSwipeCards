@@ -28,7 +28,7 @@
 
 - (void)testExample
 {
-    XCTAssertFalse(2>3,@"Hai phai nho hon ba roi.");
+    XCTAssertFalse(2<3,@"Hai phai nho hon ba roi.");
 }
 
 @end
